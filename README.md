@@ -45,5 +45,6 @@ Flask-based chatbot providing renewable energy guidance and government scheme in
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/nagbhushan-rajvir-824678303
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]yashrajveer40@gmail.com
