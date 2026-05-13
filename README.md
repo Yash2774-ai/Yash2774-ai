@@ -38,9 +38,9 @@ Flask-based chatbot providing renewable energy guidance and government scheme in
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash2774-ai&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash2774-ai&theme=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash2774-ai&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash2774-ai&theme=github" />
 
 ---
 
